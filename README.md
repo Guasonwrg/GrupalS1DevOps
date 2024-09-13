@@ -6,7 +6,7 @@ Esta es una API que permite Crear, Leer, Actualizar y Eliminar sobre informació
 
 1. Clona el repositorio en tu máquina local:
 
-   git clone https://git.utec.edu/proyecto-pokemon.git](https://github.com/Guasonwrg/GrupalS1DevOps.git
+   git clone https://github.com/Guasonwrg/GrupalS1DevOps.git
 
 2. python -m venv venv
 # En Linux: source venv/bin/activate 
