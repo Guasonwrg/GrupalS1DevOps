@@ -9,8 +9,8 @@ Esta es una API que permite Crear, Leer, Actualizar y Eliminar sobre informació
    git clone https://github.com/Guasonwrg/GrupalS1DevOps.git
 
 2. python -m venv venv
-# En Linux: source venv/bin/activate 
-# En Windows: venv\Scripts\activate
+## En Linux: source venv/bin/activate 
+## En Windows: venv\Scripts\activate
 
 3. Instalar las dependecias de Flask
    pip install Flask
